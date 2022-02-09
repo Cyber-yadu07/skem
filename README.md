@@ -31,7 +31,7 @@ Wtf Are You Seeing
 
 4. Enter the directory
    ```markdown
-   cd StringSessionBot
+   cd skem
    ```
 5. Run the file
    ```markdown
