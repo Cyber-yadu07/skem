@@ -1,4 +1,4 @@
-# A BOT BY @THEZEUSXD (https://t.me/TheZeusxD)
+# A BOT BY [`@TheZeusxD` ](https://t.me/TheZeusxD)
 Wtf Are You Seeing
 
 > A star ⭐ from you means a lot to us!
